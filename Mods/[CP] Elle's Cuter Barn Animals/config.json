@@ -1,0 +1,16 @@
+{
+  "White Cow Default": "SpottedMidnight",
+  "White Cow Skins": "SpottedSilver, SpottedGrey, SpottedBlack",
+  "Brown Cow Default": "SpottedBlack",
+  "Brown Cow Skins": "SpottedBlack, HerefordBrown, HerefordRed",
+  "Goat Default": "SolidBlonde",
+  "Goat Skins": "SolidCream, SolidBlonde, LongSolidGrey, LongSolidSilver",
+  "Sheep Default": "SolidCream",
+  "Sheep Skins": "SolidCream, SpottedBlonde, SocksFawn",
+  "Pig Default": "SolidPink",
+  "Pig Skins": "SolidPink, SpottedPink",
+  "Ostrich Default": "Black",
+  "Ostrich Skins": "Black, Grey",
+  "Wool Recolor": "Cream",
+  "Cloth Recolor": "Cream"
+}
