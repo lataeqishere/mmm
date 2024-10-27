@@ -25,13 +25,13 @@
   "FastFruitTree": false,
   "FastBuildings": [],
   "FastMachines": [],
-  "AlwaysGiveGift": false,
-  "NoFriendshipDecay": false,
+  "AlwaysGiveGift": true,
+  "NoFriendshipDecay": true,
   "DurableFences": false,
-  "InstantBuild": false,
+  "InstantBuild": true,
   "AutoFeed": false,
   "AutoPetAnimals": false,
   "AutoPetPets": false,
   "AutoWater": false,
-  "InfiniteHay": false
+  "InfiniteHay": true
 }

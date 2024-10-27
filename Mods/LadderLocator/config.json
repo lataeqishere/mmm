@@ -7,12 +7,12 @@
   ],
   "HighlightRectangleRGBA": {
     "B": 0,
-    "G": 255,
-    "R": 0,
+    "G": 0,
+    "R": 255,
     "A": 255
   },
   "HighlightImageFilename": "cracked.png",
-  "HighlightAlpha": 0.45,
+  "HighlightAlpha": 0.6,
   "CycleAlpha": "LeftAlt + OemTilde",
   "HighlightUsesStoneTint": false,
   "ToggleTint": "LeftControl + OemTilde",

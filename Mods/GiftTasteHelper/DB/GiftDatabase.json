@@ -1,0 +1,273 @@
+{
+  "Version": "1.0.0",
+  "Entries": {
+    "Demetrius": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "207"
+          }
+        ]
+      }
+    },
+    "Sebastian": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "84"
+          },
+          {
+            "ItemId": "227"
+          }
+        ]
+      }
+    },
+    "Caroline": {
+      "Entries": {
+        "Like": [
+          {
+            "ItemId": "18"
+          }
+        ],
+        "Love": [
+          {
+            "ItemId": "213"
+          }
+        ]
+      }
+    },
+    "Abigail": {
+      "Entries": {
+        "Neutral": [
+          {
+            "ItemId": "18"
+          }
+        ],
+        "Dislike": [
+          {
+            "ItemId": "390"
+          }
+        ],
+        "Love": [
+          {
+            "ItemId": "276"
+          },
+          {
+            "ItemId": "66"
+          },
+          {
+            "ItemId": "220"
+          },
+          {
+            "ItemId": "226"
+          },
+          {
+            "ItemId": "611"
+          }
+        ]
+      }
+    },
+    "George": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "20"
+          },
+          {
+            "ItemId": "205"
+          }
+        ]
+      }
+    },
+    "Evelyn": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "284"
+          },
+          {
+            "ItemId": "591"
+          }
+        ]
+      }
+    },
+    "Lewis": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "235"
+          }
+        ]
+      }
+    },
+    "Penny": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "60"
+          }
+        ],
+        "Hate": [
+          {
+            "ItemId": "376"
+          }
+        ]
+      }
+    },
+    "Pam": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "24"
+          },
+          {
+            "ItemId": "208"
+          },
+          {
+            "ItemId": "346"
+          }
+        ]
+      }
+    },
+    "Emily": {
+      "Entries": {
+        "Like": [
+          {
+            "ItemId": "207"
+          }
+        ],
+        "Love": [
+          {
+            "ItemId": "440"
+          },
+          {
+            "ItemId": "66"
+          },
+          {
+            "ItemId": "62"
+          },
+          {
+            "ItemId": "60"
+          },
+          {
+            "ItemId": "70"
+          },
+          {
+            "ItemId": "64"
+          },
+          {
+            "ItemId": "68"
+          }
+        ]
+      }
+    },
+    "Haley": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "221"
+          },
+          {
+            "ItemId": "421"
+          }
+        ]
+      }
+    },
+    "Jas": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "595"
+          },
+          {
+            "ItemId": "604"
+          }
+        ]
+      }
+    },
+    "Vincent": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "398"
+          },
+          {
+            "ItemId": "612"
+          },
+          {
+            "ItemId": "221"
+          }
+        ]
+      }
+    },
+    "Jodi": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "214"
+          },
+          {
+            "ItemId": "211"
+          }
+        ]
+      }
+    },
+    "Kent": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "649"
+          },
+          {
+            "ItemId": "607"
+          }
+        ]
+      }
+    },
+    "Sam": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "90"
+          },
+          {
+            "ItemId": "731"
+          },
+          {
+            "ItemId": "206"
+          }
+        ]
+      }
+    },
+    "Leah": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "196"
+          },
+          {
+            "ItemId": "426"
+          },
+          {
+            "ItemId": "430"
+          },
+          {
+            "ItemId": "348"
+          },
+          {
+            "ItemId": "651"
+          }
+        ]
+      }
+    },
+    "Marnie": {
+      "Entries": {
+        "Love": [
+          {
+            "ItemId": "608"
+          }
+        ]
+      }
+    }
+  }
+}
