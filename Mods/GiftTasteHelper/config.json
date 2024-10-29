@@ -1,7 +1,7 @@
 {
   "ShowOnCalendar": true,
   "ShowOnSocialPage": true,
-  "ShowOnlyKnownGifts": true,
+  "ShowOnlyKnownGifts": false,
   "ShareKnownGiftsWithAllSaves": true,
   "HideTooltipWhenNoGiftsKnown": false,
   "MaxGiftsToDisplay": 0,
