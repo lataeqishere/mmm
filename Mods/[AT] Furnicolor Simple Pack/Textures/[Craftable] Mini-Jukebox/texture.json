@@ -1,0 +1,8 @@
+{
+  "ItemName": "Mini-Jukebox",
+  "Type": "Craftable",
+  "Keywords": [ "Simple" ],
+  "TextureWidth": 16,
+  "TextureHeight": 32,
+  "Variations": 7
+}

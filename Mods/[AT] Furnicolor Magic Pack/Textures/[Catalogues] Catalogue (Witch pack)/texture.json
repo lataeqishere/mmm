@@ -1,0 +1,36 @@
+{
+  "ItemName": "Catalogue",
+  "Type": "Furniture",
+  "Keywords": [ "Amchro", "Witch" ],
+  "TextureWidth": 16,
+  "TextureHeight": 32,
+  "Variations": 1,
+  "Animation": [
+    {
+      "Frame": 0,
+      "Duration": 300
+    },
+    {
+      "Frame": 1,
+      "Duration": 300
+    },
+    {
+      "Frame": 2,
+      "Duration": 300
+    },
+    {
+      "Frame": 3,
+      "Duration": 300
+    },
+    {
+      "Frame": 4,
+      "Duration": 300
+    },
+    {
+      "Frame": 5,
+      "Duration": 300
+    }
+    
+  ]
+
+}

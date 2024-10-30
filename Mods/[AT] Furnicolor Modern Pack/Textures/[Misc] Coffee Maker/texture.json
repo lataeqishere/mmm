@@ -1,0 +1,8 @@
+{
+  "ItemName": "Coffee Maker",
+  "Type": "Craftable",
+  "Keywords": [ "Amchro" ],
+  "TextureWidth": 16,
+  "TextureHeight": 28,
+  "Variations": 3
+}

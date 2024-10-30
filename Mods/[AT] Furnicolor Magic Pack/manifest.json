@@ -1,0 +1,13 @@
+﻿{
+  "Name": "[AT] Furnicolor Magic Pack",
+  "Author": "Amchro",
+  "Version": "1.5.1",
+  "Description": "Recolors of furniture",
+  "UniqueID": "Amchro.AT.Furnicolor.Magic.Pack",
+  "UpdateKeys": [ "Nexus: 9885" ],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures",
+    "MinimumVersion": "7.2.5"
+  }
+}

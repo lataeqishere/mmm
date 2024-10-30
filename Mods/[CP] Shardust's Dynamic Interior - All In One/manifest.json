@@ -1,0 +1,12 @@
+{
+   "Name": "Shardust's Dynamic Interior - All In One",
+   "Author": "Shardust",
+   "Version": "6.0.0",
+   "Description": "Shardust's Dynamic Interior - All In One",
+   "UniqueID": "Shardust.Dynamic.Interior.AllInOne",
+   "MinimumApiVersion": "3.8.4",
+   "UpdateKeys": [ "Nexus:3751@AllInOne" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

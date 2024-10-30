@@ -1,7 +1,7 @@
 {
   "OpenMenuKey": "P",
   "FreezeTimeKey": "None",
-  "GrowTreeKey": "Right",
+  "GrowTreeKey": "CapsLock",
   "GrowCropsKey": "Left",
   "GrowRadius": 1,
   "DefaultTab": "PlayerAndTools",
@@ -19,13 +19,13 @@
   "ThrowBobberMax": false,
   "DurableTackles": false,
   "AlwaysTreasure": false,
-  "FreezeTime": true,
+  "FreezeTime": false,
   "FreezeTimeInside": false,
   "FreezeTimeCaves": false,
   "FastFruitTree": false,
   "FastBuildings": [],
   "FastMachines": [
-    "(BC)12"
+    "(BC)101"
   ],
   "AlwaysGiveGift": true,
   "NoFriendshipDecay": true,

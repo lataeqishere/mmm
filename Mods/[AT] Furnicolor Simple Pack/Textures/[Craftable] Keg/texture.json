@@ -1,0 +1,8 @@
+{
+  "ItemName": "Keg",
+  "Type": "Craftable",
+  "Keywords": [ "" ],
+  "TextureWidth": 16,
+  "TextureHeight": 32,
+  "Variations": 5
+}
